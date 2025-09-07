@@ -2,8 +2,7 @@
 
 ## 🎉 **Your Bot is Live!**
 
-**Bot Username:** @Blackbuck_bot  
-**Bot Token:** `5943638308:AAGyMvIG6IpT5-H-FaALMcvNhW3SUSzGzFo` ✅
+**Bot Username:** @Blackbuck_bot  **
 
 ## 🚀 **Quick Start**
 
