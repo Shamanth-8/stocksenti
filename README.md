@@ -6,18 +6,42 @@ A powerful Streamlit application that analyzes market sentiment from recent fina
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
 
+## 🚀 **Live Demo**
+
+**Try the app now:** [**https://stocksenti-qfgcct823xgeos9vssvk4m.streamlit.app**](https://stocksenti-qfgcct823xgeos9vssvk4m.streamlit.app)
+
+🎯 No installation required - just click and start analyzing!
+
+---
+
 ## ✨ Features
 
+### 💻 **Web App (Streamlit)**
 - **🔍 Real-time News Analysis**: Fetch the latest financial news from NewsAPI or Finnhub
 - **🤖 AI-Powered Sentiment Detection**: Uses advanced transformer models from Hugging Face
 - **📊 Interactive Visualizations**: Beautiful charts and metrics to understand sentiment trends
 - **🎯 Company-Specific Analysis**: Search by company name or stock symbol
 - **⚡ Fast & Responsive**: Cached results for improved performance
-- **🌐 Easy Deployment**: Ready for Streamlit Cloud deployment
+- **🌍 Easy Deployment**: Ready for Streamlit Cloud deployment
+
+### 🤖 **Telegram Bot (@Blackbuck_bot)**
+- **📱 Mobile-First**: Analyze stocks directly from your phone
+- **🗨️ Simple Commands**: Just type `/analyze Apple` or company name
+- **🔄 Real-time Updates**: Live progress updates during analysis
+- **🎯 Interactive Buttons**: Quick actions and easy navigation
+- **🌍 24/7 Available**: Always online sentiment analysis
 
 ## 🚀 Quick Start
 
-### Prerequisites
+### 🌐 **Option 1: Try Online (Easiest)**
+
+**Web App:** [https://stocksenti-qfgcct823xgeos9vssvk4m.streamlit.app](https://stocksenti-qfgcct823xgeos9vssvk4m.streamlit.app)
+
+**Telegram Bot:** Search `@Blackbuck_bot` in Telegram and send `/start`
+
+### 💻 **Option 2: Run Locally**
+
+#### Prerequisites
 
 - Python 3.8+
 - API key from either:
@@ -205,6 +229,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [NewsAPI](https://newsapi.org/) for financial news data
 - [Finnhub](https://finnhub.io/) for real-time financial data
 
----
 
-**Made with ❤️ and 🤖 AI**
+
